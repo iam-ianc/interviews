@@ -1,0 +1,49 @@
+$space-values : (
+  '1': 16,
+  '2': 22,
+  '3': 28,
+  '4': 34,
+  '5': 40,
+  '6': 48,
+  '7': 56,
+  '8': 68,
+  '9': 76,
+  '10': 90,
+) !default;
+
+$space-prefixes : (
+  p  : padding,
+  pt : padding-top,
+  pr : padding-right,
+  pb : padding-bottom,
+  pl : padding-left,
+  m  : margin,
+  mt : margin-top,
+  mr : margin-right,
+  mb : margin-bottom,
+  ml : margin-left,
+) !default;
+
+$breakpoint_sm: 768px;
+$breakpoint_md: 992px;
+$breakpoint_lg: 1200px;
+
+$breakpoints: (
+  xs: 0,
+  sm: $breakpoint_sm,
+  md: $breakpoint_md,
+  lg: $breakpoint_lg,
+) !default;
+
+$propColor: (
+  'background',
+  'text',
+);
+
+$colors: (
+  'primary': #f6b900,
+  'font': #3a3e54,
+  'grey': #e5e5e5,
+  'light': #fff,
+  'dark': #000,
+) !default;

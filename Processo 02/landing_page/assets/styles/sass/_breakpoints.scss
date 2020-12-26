@@ -1,0 +1,11 @@
+@mixin media($breakpoint){
+  @each $bp_name, $bp_val in $breakpoints {
+    @if $breakpoint == $bp_name {
+      @if $bp_val == 0 {
+        @media screen and (max-width: $breakpoint_sm) { @content; }
+      } @else {
+        @media screen and (min-width: $bp_val) { @content; }
+      }
+    }
+  }
+}

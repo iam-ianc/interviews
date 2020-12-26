@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Ian Cozachevici - Processo 02</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/exercicio.css">
+</head>
+
+<body>
+  <div class="container exercicio">
+    <div class="row">
+      <div class="col-md-8 col-md-push-2">
+        <header class="enunciado">
+          <p><strong>Hello user!</strong></p>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+          <p>Quisque vel dignissim ante</p>
+        </header>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-md-8 col-md-push-2">
+        <div class="alternativas">
+
+          <div class="alternativa">
+            <span class="checkbox-wrap">
+              <input type="checkbox" id="a1" name="q1">
+            </span>
+            <div class="texto">
+              <label for="a1"><strong>A) </strong>Lorem</label>
+            </div>
+          </div>
+
+          <div class="alternativa">
+            <span class="checkbox-wrap">
+              <input type="checkbox" id="a2" name="q1">
+            </span>
+            <div class="texto">
+              <label for="a2"><strong>B) </strong>Ipsum</label>
+            </div>
+          </div>
+
+          <div class="alternativa">
+            <span class="checkbox-wrap">
+              <input type="checkbox" id="a3" name="q1">
+            </span>
+            <div class="texto">
+              <label for="a3"><strong>C) </strong>dolor</label>
+            </div>
+          </div>
+
+          <div class="alternativa">
+            <span class="checkbox-wrap">
+              <input type="checkbox" id="a4" name="q1">
+            </span>
+            <div class="texto">
+              <label for="a4"><strong>D) </strong>sit</label>
+            </div>
+          </div>
+        </div>
+
+        <div class="acoes">
+          <input type="button" value="Confirmar" class="bt bt-confirmar" >
+        </div>
+
+        <div class="feedbacks">
+          <div class="feedback-positivo feedbacksNone" id="feedbackPositivo"><strong>Congratulation! </strong>
+            Right answer!</div>
+          <div class="feedback-negativo feedbacksNone" id="feedbackNegativo"><strong>Attention! </strong>Wrong answer.</div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+  <script src="js/jquery.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>

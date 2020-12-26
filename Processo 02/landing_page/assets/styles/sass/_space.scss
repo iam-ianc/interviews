@@ -1,0 +1,25 @@
+@mixin make-space($values, $prefixes, $breakpoints) {
+  @each $bp_name, $bp_val in $breakpoints {
+    @if($bp_val == 0) {
+      @each $class_name, $prop in $prefixes {
+        @each $idx, $value in $values {
+          .#{$class_name}-#{$idx} {
+            #{$prop}: #{$value}#{'px'};
+          }
+        }
+      }
+    }
+    @else {
+      @media screen and (min-width: $bp_val) {
+        @each $class_name, $prop in $prefixes {
+          @each $idx, $value in $values {
+            .#{$bp_name}-#{$class_name}-#{$idx} {
+              #{$prop}: #{$value - 0.2}#{'px'};
+            }
+          }
+        }
+      }
+    }
+  }
+}
+@include make-space($space-values, $space-prefixes, $breakpoints);

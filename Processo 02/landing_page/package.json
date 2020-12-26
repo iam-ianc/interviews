@@ -1,0 +1,12 @@
+{
+  "name": "landing_page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node-sass --output-style=compressed --source-map true --source-map-embed true -r -w ./assets/styles/sass -o ./assets/styles"
+  },
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}

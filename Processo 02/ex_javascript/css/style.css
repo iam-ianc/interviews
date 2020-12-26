@@ -1,0 +1,33 @@
+/* CSS RESET */
+*, *:before, *:after {margin: 0; padding: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; -o-box-sizing: border-box; -ms-box-sizing: border-box; box-sizing: border-box;}
+article,aside,details,figcaption,figure,footer,header,hgroup,nav,section, main{display: block;}
+audio,canvas,video{display: inline-block;}
+html{font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;}
+body,button,input,select,textarea{font-family: sans-serif;}
+:active, :focus, a:hover{outline: 0;}
+b, strong {font-weight: bold;}
+pre{white-space: pre-wrap;}
+hr {-webkit-box-sizing: content-box; -moz-box-sizing: content-box; box-sizing: content-box;  height: 0;}
+q {quotes: "\201C" "\201D" "\2018" "\2019";}
+sub,sup{font-size: 75%; line-height: 0; position: relative; vertical-align: baseline;}
+sup{top: -.5em;}
+sub{bottom: -.25em;}
+img{border: 0; -ms-interpolation-mode:bicubic;}
+svg:not(:root){overflow: hidden;}
+legend{border: 0;}
+button,input,select,textarea{vertical-align: middle;}
+button,input{line-height: normal;}
+button,input[type=button],input[type=reset],input[type=submit]{ border: none; cursor: pointer; overflow: visible; -webkit-appearance: button;}
+button, select {text-transform: none;}
+input[type=search]{-moz-box-sizing: content-box; box-sizing: content-box; -webkit-appearance: textfield; -webkit-box-sizing: content-box;}
+input[type="search"]::-webkit-search-cancel-button, 
+input[type="search"]::-webkit-search-decoration {-webkit-appearance: none;}
+button::-moz-focus-inner,
+input::-moz-focus-inner{border: 0;}
+textarea{overflow: auto; vertical-align: top;  resize: none;}
+audio:not([controls]) {display: none; height: 0;}
+[hidden]{display: none;}
+button[disabled],html input[disabled] {cursor: default;}
+input[type="checkbox"], input[type="radio"] {box-sizing: border-box;}
+body, html {height: 100%; width: 100%;}
+body {overflow: -moz-scrollbars-vertical;}

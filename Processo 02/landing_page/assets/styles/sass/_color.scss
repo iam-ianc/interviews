@@ -1,0 +1,17 @@
+@mixin createColors($propColor, $colors){
+  @each $prop in $propColor {
+    @each $class_name, $color in $colors {
+      @if $prop == 'background' {
+        .#{$class_name} {
+          #{$prop}: $color;
+        }
+      } @else if $prop == 'text' {
+        .#{$prop}--#{$class_name} {
+          color: $color;
+        }
+      }
+    }
+  }
+}
+
+@include createColors($propColor, $colors)
