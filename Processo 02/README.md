@@ -2,7 +2,9 @@
 	 Landing Page 🚀
 </h1>
 
-🏠 Landing Page - Nesta primeira parte do teste, foi solicitada o uso do bootstrap na versão 3 que é suportado pelo Internet Explorer 9 e superiores. A página foi criada de forma responsiva e seguindo um layout em PSD previamente disponibilizado.
+🏠 Landing Page - Nesta primeira parte do teste, foi solicitada o uso do bootstrap na versão 3 que é suportado pelo Internet Explorer 9 e superiores. 
+- A página foi criada de forma responsiva e seguindo um layout em PSD previamente disponibilizado.
+- Utilizei também por conta própria o SASS para a manipulação de variáveis e mixins, como por exemplo, a construções de espaçamento (margin e padding) e em todos os breakpoints necessários.
 
 
 <h1 align="center"> 
