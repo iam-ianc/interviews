@@ -2,16 +2,12 @@
 	 Landing Page 🚀
 </h1>
 
-## 💻 Sobre o exercício
-
 🏠 Landing Page - Nesta primeira parte do teste, foi solicitada o uso do bootstrap na versão 3 que é suportado pelo Internet Explorer 9 e superiores. A página foi criada de forma responsiva e seguindo um layout em PSD previamente disponibilizado.
 
 
 <h1 align="center"> 
 	 Quiz 🚀
 </h1>
-
-## 💻 Sobre o exercício
 
 ✔️ Quiz - Nesta segunda parte do teste, foi solicitado apenas a manipulação de código JavaScript, sendo o HTML e o CSS já disponibilizados.
 
