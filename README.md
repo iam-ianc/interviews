@@ -16,20 +16,22 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - HTML5 
 - CSS3
-- [Bootstrap](https://getbootstrap.com/)
+- [Bootstrap 4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+
+Para mais detalhes, acesse: [Processo 01](https://github.com/iam-ianc/interviews/blob/main/Processo%2001/README.md)
 
 ### Processo 02
-2️⃣ 
+2️⃣ Página Web/Quiz - foram solicitados dois teste, um para avaliação dos conhecimentos de HTML5 e CSS3 (e bibliotecas do Bootstrap versão 3) na criação de uma página Web responsiva, e outro para avaliação do domínio da tecnologia jQuery na validação de um Quiz.
 
 #### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [Node.js](https://nodejs.org/en/)
-- [Vue.js](https://vuejs.org/)
-- [Vuetify](https://vuetifyjs.com/en/)
-- [Electron](https://www.electronjs.org/)
-- [TypeScript](https://www.typescriptlang.org/)
+- HTML5 
+- CSS3
+- [Bootstrap 3](https://getbootstrap.com/docs/3.3/)
+- [SASS](https://sass-lang.com/)
+- [jQuery](https://jquery.com/)
 
 ### Processo 03
 3️⃣ Web Scraping -  
