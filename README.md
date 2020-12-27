@@ -43,7 +43,7 @@ Para mais detalhes, acesse: [Processo 02](https://github.com/iam-ianc/interviews
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - Linguagem
-	- [Python](https://www.python.org/) (estruturado)
+	- [Python](https://www.python.org/)
 - Bibliotecas
 	- [Datetime](https://docs.python.org/3/library/datetime.html)
 	- [Sys](https://docs.python.org/3/library/sys.html)
