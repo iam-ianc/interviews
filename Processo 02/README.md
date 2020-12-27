@@ -4,7 +4,7 @@
 
 ## 💻 Sobre o exercício
 
-📊 Landing Page - Nesta primeira parte do teste, foi solicitada o uso do bootstrap na versão 3 que é suportado pelo Internet Explorer 9 e superiores. A página foi criada de forma responsiva e seguindo um layout em PSD previamente disponibilizado.
+🏠 Landing Page - Nesta primeira parte do teste, foi solicitada o uso do bootstrap na versão 3 que é suportado pelo Internet Explorer 9 e superiores. A página foi criada de forma responsiva e seguindo um layout em PSD previamente disponibilizado.
 
 
 <h1 align="center"> 
@@ -13,7 +13,7 @@
 
 ## 💻 Sobre o exercício
 
-📊 Quiz - Nesta segunda parte do teste, foi solicitado apenas a manipulação de código JavaScript, sendo o HTML e o CSS já disponibilizados.
+✔️ Quiz - Nesta segunda parte do teste, foi solicitado apenas a manipulação de código JavaScript, sendo o HTML e o CSS já disponibilizados.
 O teste consiste em fazer uma requisição via fetch em um banco de dados que retorna um JSON. Dada a pergunta, é necessário percorrer as alternativas onde cada alternativa tem um identificador único que é comparado com o resultado armazenado no banco.
 Caso o usuário selecione alguma alternativa, um botão de "Confirmar" é exibido, se a mesma opção é selecionada novamente pelo usuário, o botão "Confirmar" é ocultado e a seleção é desmarcada. Caso o usuário troque de alternativa, o botão "Confirmar" segue sendo exibido e a seleção é alterada para a nova alternativa.
 Se o usuário confirma a sua seleção, e essa seleção for diferente da armazenada no banco, então é exibido um feedback negativo, e tem a chance de mudar de alternativa.
