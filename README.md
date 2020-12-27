@@ -7,6 +7,9 @@
 
 📂 Neste repositório estão disponibilizados todos testes práticos de processos seletivos que eu tive a oportunidade de realizar. Abaixo um breve descritivo sobre cada processo:
 
+
+<hr />
+
 ### Processo 01
 1️⃣ Landing Page -  foi solicitada a criação de uma landing page utilizando as tecnologias Web HTML5, CSS3 e Bootstrap, seguindo um layout previamente disponibilizado.
 
@@ -18,6 +21,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - CSS3
 - [Bootstrap 4.5](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
+
+<hr />
 
 ### Processo 02
 2️⃣ Landing Page/Quiz - foram solicitados dois teste, um para avaliação dos conhecimentos de HTML5 e CSS3 (e bibliotecas do Bootstrap versão 3) na criação de uma página Web responsiva, e outro para avaliação do domínio da tecnologia jQuery na validação de um Quiz.
@@ -34,6 +39,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Para mais detalhes, acesse: [Processo 02](https://github.com/iam-ianc/interviews/blob/main/Processo%2002/README.md)
 
+
+<hr />
 
 ### Processo 03
 3️⃣ Web Scraping - foi solicitada a criação de um script utilizando a linguagem Python para coletar dados de um site e retornar uma planilha com os dados coletados.
