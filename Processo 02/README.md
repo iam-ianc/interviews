@@ -20,4 +20,4 @@
 - Se o usuário confirma a sua seleção, e essa seleção for diferente da armazenada no banco, então é exibido um feedback negativo, e tem a chance de mudar de alternativa.
 - Se a seleção confirmada for a mesma da armazenada no banco, então é exibido um feedback positivo e o usuário é impossibilitado de tentar marcar uma nova alternativa, e o botão "Confirmar" é desabilitado.
 
-OBS.: A parte do Quiz deve ser executada pelo Live Server no VS Code.
+OBS.: A parte do Quiz deve ser executada pelo Live Server no VS Code ou na pasta ./src você pode utilizar o comando no terminal 'yarn dev'.
