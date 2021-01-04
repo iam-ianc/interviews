@@ -1,0 +1,12 @@
+{
+  "name": "ex_javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "http-server ./src -c-1"
+  },
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
